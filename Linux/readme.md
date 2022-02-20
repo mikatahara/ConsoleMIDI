@@ -1,2 +1,2 @@
-# RawMidiインターフェース
+# RawMidi繧､繝ｳ繧ｿ繝ｼ繝輔ぉ繝ｼ繧ｹ
 ## MIDI THROUGH
